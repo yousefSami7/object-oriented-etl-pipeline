@@ -1,4 +1,8 @@
 warehouse_stock.csv
 final_inventory_report.csv
 __pycache__/
+<<<<<<< HEAD
 env/
+=======
+env/
+>>>>>>> a976eaa827442ee1c227d11f652003243b460114
