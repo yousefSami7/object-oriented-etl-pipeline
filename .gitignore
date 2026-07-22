@@ -1,3 +1,4 @@
 warehouse_stock.csv
 final_inventory_report.csv
 __pycache__/
+env/
