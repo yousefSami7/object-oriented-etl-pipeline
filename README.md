@@ -3,8 +3,8 @@ This program extracts data from a live internet API and a local CSV file. It cle
 
 ## Setup Instructions
 To install the required dependencies for this pipeline, open your terminal and run: <br>
-### pip install -r requirements.txt 
+``` pip install -r requirements.txt ```
 
 ## How to Run
 To execute the data extraction and generate the final inventory report, run: <br>
-### python main.py
+``` python main.py ```
