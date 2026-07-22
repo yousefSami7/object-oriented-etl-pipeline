@@ -11,4 +11,7 @@ if __name__ == "__main__":
     Tr.clean()
     merged_DF = Tr.merge_datasets(storeDF)
     loader = Loader()
-    loader.load(merged_DF)
+    try:
+        loader.load(merged_DF)
+    except Exception as e:
+        print(f"Data loading failed: {e}")
