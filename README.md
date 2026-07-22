@@ -7,4 +7,4 @@ To install the required dependencies for this pipeline, open your terminal and r
 
 ## How to Run
 To execute the data extraction and generate the final inventory report, run: <br>
-<h3 style = "color : red "> python main.py</h3>
+<h3 style = "border : 1px red "> python main.py</h3>
